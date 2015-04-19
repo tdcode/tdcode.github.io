@@ -1,5 +1,5 @@
 {
-  "vers":3,
+  "vers":4,
   "format":"basic-news",
   "arr":[
  {
@@ -12,6 +12,11 @@
     "dt":"2015-04-18",
     "txtArr":[ "Dies ist ein zweite Text,",
                 "in zwei Zeilen."  ],
+ },
+ {
+    "dt":"2015-04-19",
+    "txtArr":[ "CrangePlan14-App",
+                "neue Kirmes-App bald verfügbar"  ],
  },
  ],
 }
