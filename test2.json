@@ -1,0 +1,18 @@
+{
+  "vers":3,
+  "format":"basic-news",
+  "arr":[
+ {
+    "dt":"2015-04-16",
+    "txtArr":[ "Dies ist ein erste Text,",
+               "der auf - hier - drei",
+               "Zeilen aufgeteilt ist" ],
+ },
+ {
+    "dt":"2015-04-18",
+    "txtArr":[ "Dies ist ein zweite Text,",
+                "in zwei Zeilen."  ],
+ },
+ ],
+}
+
