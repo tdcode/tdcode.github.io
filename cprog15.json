@@ -1,5 +1,5 @@
 {
-    "vers":2,
+    "vers":3,
     "format":"prog6perLine",
     "arr":[
 
@@ -11,8 +11,8 @@
            "Das Abschlussfeuerwerk ist der spektakuläre Höhepunkt zum Ende der 580. Cranger Kirmes.",
            "orig",
 
-           "schon", "bald","Updates ","neue Programmpunkte",
-           "Updates zum Kirmesprogramm werden schon bald bereitgestellt und automatisch geladen. Stand: 21.05.2015",
+           "schon", "bald","Updates ","neue Programmpunkte (v3)",
+           "Updates zum Kirmesprogramm werden schon bald bereitgestellt und automatisch geladen. Stand: 22.05.2015",
            "orig",
            
     ],
