@@ -1,18 +1,30 @@
 {
-    "vers":4,
+    "vers":5,
     "format":"prog6perLine",
     "arr":[
 
-           "Aug.","Fr. 7","Eröffnungsfeier (vorauss.)","ab 14 Uhr, Bayern-Festhalle",
-           "Die 580. Cranger Kirmes wird vorauss. vom Oberbürgermeister feierlich eröffnet. Für die musikalischen Höhepunkte sorgen Jürgen Drews und voXXclub.",
+           "Aug.","Do. 6","Bürgerabend","ab 18 Uhr, Bayern-Festhalle",
+           "Einen Tag vor der offiziellen Eröffnung findet im Bayernfestzelt der traditionelle Bürgerabend statt.",
+           "orig",
+
+           "Aug.","Fr. 7","Eröffnungsfeier","ab 14 Uhr, Bayern-Festhalle",
+           "Die 580. Cranger Kirmes wird um 14 Uhr offiziell eröffnet. Für die musikalischen Höhepunkte sorgen Jürgen Drews und voXXclub.",
            "orig",
            
+           "Aug.", "Fr. 7","Eröffnungsfeuerwerk","ab 22:30 Uhr",
+           "Das spektakuläre Feuerwerk ist ein Highlight am Eröffnungstag.",
+           "orig",
+
+           "Aug.", "Sa. 8","Umzug","ab 10:30 Uhr",
+           "Der Festumzug startet am St. Jörgen-Platz und führt über die Hauptstraße Richtung Kirmesplatz.",
+           "orig",
+
            "Aug.", "So. 16","Abschlussfeuerwerk","ab 22:30 Uhr (vorauss.)",
            "Das Abschlussfeuerwerk ist der spektakuläre Höhepunkt zum Ende der 580. Cranger Kirmes.",
            "orig",
 
-           "schon", "bald","Updates ","neue Programmpunkte (v4)",
-           "Updates zum Kirmesprogramm werden schon bald bereitgestellt und automatisch geladen. Stand: 04.06.2015",
+           "schon", "bald","Updates ","neue Programmpunkte (v5)",
+           "Updates zum Kirmesprogramm werden schon bald bereitgestellt und automatisch geladen. Stand: 17.06.2015",
            "orig",
            
     ],
