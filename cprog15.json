@@ -1,5 +1,5 @@
 {
-    "vers":5,
+    "vers":6,
     "format":"prog6perLine",
     "arr":[
 
@@ -19,12 +19,24 @@
            "Der Festumzug startet am St. Jörgen-Platz und führt über die Hauptstraße Richtung Kirmesplatz.",
            "orig",
 
+           "Aug.", "So. 9","Gottesdienst","um 10:00 Uhr, Festhalle",
+           "Am 1. Kirmessonntag findet der Gottesdienst für jedermann in der Festhalle statt.",
+           "orig",
+           
+           "Aug.", "So. 9","Oldie Night","ab 18:00 Uhr, Steinmeister",
+           "Bei Steinmeister werden Hits der Vergangenheit gespielt und Musikwünsche erfüllt.",
+           "schaust",
+
            "Aug.", "So. 16","Abschlussfeuerwerk","ab 22:30 Uhr (vorauss.)",
            "Das Abschlussfeuerwerk ist der spektakuläre Höhepunkt zum Ende der 580. Cranger Kirmes.",
            "orig",
 
-           "schon", "bald","Updates ","neue Programmpunkte (v5)",
-           "Updates zum Kirmesprogramm werden schon bald bereitgestellt und automatisch geladen. Stand: 17.06.2015",
+           "zur", "Info","Farbwahl","Schausteller sind orange.",
+           "Veranstaltungen der Schausteller sind in diesem Kalender orange markiert. Kirmesveranstaltungen haben einen helleren Farbton.",
+           "schaust",
+
+           "schon", "bald","Updates ","neue Programmpunkte (v6)",
+           "Updates zum Kirmesprogramm werden schon bald bereitgestellt und automatisch geladen. Update: 30.06.2015",
            "orig",
            
     ],
