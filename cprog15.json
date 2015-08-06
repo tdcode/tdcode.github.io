@@ -1,7 +1,11 @@
 {
-    "vers":6,
+    "vers":7,
     "format":"prog6perLine",
     "arr":[
+
+           "App","Info","Kein Update für 2015","Nutzen Sie die Webseite.",
+           "CrangePlan erhält dieses Jahr kein Update. Bitte nutzen Sie die offizielle Webseite.",
+           "orig",
 
            "Aug.","Do. 6","Bürgerabend","ab 18 Uhr, Bayern-Festhalle",
            "Einen Tag vor der offiziellen Eröffnung findet im Bayernfestzelt der traditionelle Bürgerabend statt.",
@@ -31,14 +35,10 @@
            "Das Abschlussfeuerwerk ist der spektakuläre Höhepunkt zum Ende der 580. Cranger Kirmes.",
            "orig",
 
-           "zur", "Info","Farbwahl","Schausteller sind orange.",
-           "Veranstaltungen der Schausteller sind in diesem Kalender orange markiert. Kirmesveranstaltungen haben einen helleren Farbton.",
-           "schaust",
-
-           "schon", "bald","Updates ","neue Programmpunkte (v6)",
-           "Updates zum Kirmesprogramm werden schon bald bereitgestellt und automatisch geladen. Update: 30.06.2015",
+           "App","Info","Kein Update für 2015","Nutzen Sie die Webseite.",
+           "CrangePlan erhält dieses Jahr kein Update. Bitte nutzen Sie die offizielle Webseite.",
            "orig",
-           
+
     ],
 }
 
